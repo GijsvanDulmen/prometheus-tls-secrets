@@ -9,7 +9,7 @@
   "author": "Gijs van Dulmen",
   "license": "Mozilla Public License 2.0",
   "dependencies": {
-    "@kubernetes/client-node": "^0.13.0",
+    "@kubernetes/client-node": "^0.16.1",
     "express": "^4.17.1",
     "node-forge": "^0.10.0",
     "prom-client": "^12.0.0",
